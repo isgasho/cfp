@@ -33,3 +33,9 @@ cfp
 nohup ./cfp -addr 0.0.0.0 -port 12345 -cfaddr 104.17.219.1 -hosts ntt.mydomain.com,hkt.mydomain.com &
 ```
 PS:想要弄开机自启可以自己查资料动手~
+
+## 遇到了问题？
+欢迎提issue或Pull Request
+
+## 开源协议
+BSD 3-Clause License
